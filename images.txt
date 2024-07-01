@@ -1,1 +1,1 @@
-trinodb/trino:450
+trinodb/trino:420
