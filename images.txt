@@ -1,2 +1,1 @@
- vesoft/nebula-graph-studio:v3.9.0
-
+trinodb/trino:450
