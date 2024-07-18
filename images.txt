@@ -1,1 +1,1 @@
-qdrant/qdrant:v1.3.2
+busybox:latest
