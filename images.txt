@@ -1,1 +1,1 @@
-farberg/apache-hadoop:3.3.2
+apache/streampark:2.1.1
