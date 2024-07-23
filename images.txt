@@ -1,5 +1,1 @@
-quay.io/k8scsi/csi-attacher:v3.1.0
-quay.io/k8scsi/csi-node-driver-registrar:v2.1.0
-misterli/csi-driver-s3:v0.3.4
-quay.io/k8scsi/csi-provisioner:v2.1.0
-misterli/csi-driver-s3:v0.3.4
+minio/operator:v5.0.14
