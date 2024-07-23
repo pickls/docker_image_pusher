@@ -1,1 +1,2 @@
-minio/operator:v5.0.14
+rancher/local-path-provisioner:v0.0.26
+busybox
