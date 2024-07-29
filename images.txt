@@ -1,1 +1,1 @@
-apache/streampark:2.2.0
+apache/flink:1.16.3-scala_2.12
