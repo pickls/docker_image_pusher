@@ -1,1 +1,3 @@
-aliyunemr/remote-shuffle-service:0.1.1-6badd20
+zeppelin-server:0.12.0-SNAPSHOT
+janeczku/go-dnsmasq:release-1.0.5
+nginx:1.14.0
