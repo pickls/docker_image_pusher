@@ -1,1 +1,2 @@
-apache/zeppelin:0.10.0
+apache/zeppelin:0.10.1
+apache/zeppelin:0.11.0
