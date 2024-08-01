@@ -1,1 +1,1 @@
-apache/spark:v3.2.3
+apache/zeppelin:0.10.0
