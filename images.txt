@@ -1,2 +1,1 @@
-apache/zeppelin:0.10.1
-apache/zeppelin:0.11.0
+apache/zeppelin-interpreter:0.10.1
