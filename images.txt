@@ -1,1 +1,1 @@
-apache/flink:1.17.2-scala_2.12
+nvtienanh/spark-py:latest
