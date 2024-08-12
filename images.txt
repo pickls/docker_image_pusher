@@ -1,1 +1,3 @@
 starrocks/operator:v1.9.4
+starrocks/fe-ubuntu:3.2-latest
+starrocks/be-ubuntu:3.2-latest
