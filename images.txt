@@ -1,1 +1,1 @@
-vesoft/nebula-operator:v1.8.0
+vesoft/nebula-graph-studio:v3.9.0
