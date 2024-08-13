@@ -1,3 +1,2 @@
-starrocks/operator:v1.9.4
-starrocks/fe-ubuntu:3.2-latest
-starrocks/be-ubuntu:3.2-latest
+vesoft/nebula-operator:v1.3.0
+gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
