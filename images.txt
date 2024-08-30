@@ -1,1 +1,1 @@
-dinkydocker/dinky-standalone-server:1.1.0-flink1.17
+elastic/filebeat:7.3.1
