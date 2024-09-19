@@ -1,1 +1,1 @@
-telefonica/spark-py:3.3.2-hadoop3.3.2-S3A-WASB-test
+apache/spark-py:v3.4.0
