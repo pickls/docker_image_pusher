@@ -1,1 +1,2 @@
-prom/prometheus:main
+prom/alertmanager:main
+grafana/grafana:main
