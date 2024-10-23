@@ -1,1 +1,1 @@
-docker.io/bitnami/git:2.37.0-debian-11-r4
+heartexlabs/label-studio
