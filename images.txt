@@ -1,9 +1,1 @@
-docker.io/vesoft/nebula-metad:v3.6.0
-docker.io/vesoft/nebula-metad:v3.6.0
-docker.io/vesoft/nebula-metad:v3.6.0
-docker.io/vesoft/nebula-storaged:v3.6.0
-docker.io/vesoft/nebula-storaged:v3.6.0
-docker.io/vesoft/nebula-storaged:v3.6.0
-docker.io/vesoft/nebula-graphd:v3.6.0
-docker.io/vesoft/nebula-graphd:v3.6.0
-docker.io/vesoft/nebula-graphd:v3.6.0
+vesoft/nebula-graph-studio:v3.9.0
