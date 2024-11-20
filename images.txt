@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 vesoft/nebula-graph-studio:v3.9.0
-=======
-vesoft/nebula-operator:v1.8.0
->>>>>>> 976ddd3ffaf595f2e7bf2e60b82db8911e57454d
