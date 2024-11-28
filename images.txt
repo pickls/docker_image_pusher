@@ -1,1 +1,2 @@
-vesoft/nebula-graph-studio:v3.9.0
+pythonstock/pythonstock:latest
+mysql:5.7
