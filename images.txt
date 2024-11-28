@@ -1,2 +1,2 @@
-pythonstock/pythonstock:v1
+pythonstock/pythonstock:v2021
 mysql:5.7
