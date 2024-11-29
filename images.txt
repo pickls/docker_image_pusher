@@ -1,2 +1,1 @@
-pythonstock/pythonstock:v2021
-mysql:5.7
+minio/operator:v5.0.14
