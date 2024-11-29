@@ -1,1 +1,1 @@
-minio/operator:v5.0.14
+docker.io/bitnami/postgresql:16.4.0-debian-12-r7
