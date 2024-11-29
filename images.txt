@@ -1,2 +1,1 @@
-rtdl/hive-metastore:3.1.2
-busybox:latest
+docker.io/bitnami/redis:7.4.0-debian-12-r2
