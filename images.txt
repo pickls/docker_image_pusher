@@ -1,1 +1,1 @@
-redis/redis-stack-server:latest
+trinodb/trino:440
