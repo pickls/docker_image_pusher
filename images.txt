@@ -1,1 +1,1 @@
-trinodb/trino:440
+bitnami/elasticsearch:8.17.0-debian-12-r0
