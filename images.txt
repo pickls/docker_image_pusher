@@ -1,1 +1,4 @@
-quay.io/prometheus-operator/prometheus-config-reloader:v0.77.1
+starrocks/fe-ubuntu:3.4-latest
+starrocks/be-ubuntu:3.4-latest
+starrocks/cn-ubuntu:3.4-latest
+starrocks/operator:v1.9.10
