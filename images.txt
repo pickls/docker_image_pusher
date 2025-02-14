@@ -1,4 +1,1 @@
-starrocks/fe-ubuntu:3.3-latest
-starrocks/be-ubuntu:3.3-latest
-starrocks/cn-ubuntu:3.3-latest
-starrocks/operator:v1.9.10
+starrocks/cn-ubuntu:3.2-latest
