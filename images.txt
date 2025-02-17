@@ -1,4 +1,4 @@
-apache/ranger-zk:2.5.0
-apache/ranger-solr:2.5.0
-apache/ranger-db:2.5.0
-apache/ranger:2.5.0
+apache/ranger-zk:2.4.0
+apache/ranger-solr:2.4.0
+apache/ranger-db:2.4.0
+apache/ranger:2.4.0
