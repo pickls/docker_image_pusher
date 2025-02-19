@@ -1,1 +1,1 @@
-armadik/ranger-usersync:2.4.0
+melodydocker/ranger-usersync:2.4.1
