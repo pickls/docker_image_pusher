@@ -1,1 +1,1 @@
-apache/ranger-solr:2.4.1
+solr:9
