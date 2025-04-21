@@ -1,1 +1,1 @@
-solr:8.11.3
+starfleetcptn/gomft:latest
