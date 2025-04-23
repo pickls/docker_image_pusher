@@ -1,1 +1,1 @@
-starfleetcptn/gomft:latest
+txn2/kubefwd:1.4.10
