@@ -1,1 +1,1 @@
-neo4j:2025.03.0
+pytorch/pytorch:1.12.1-cuda11.3-cudnn8-devel
