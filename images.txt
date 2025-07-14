@@ -1,1 +1,1 @@
-golang:1.18
+openjdk:21-jdk
