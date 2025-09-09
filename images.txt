@@ -1,1 +1,1 @@
-openjdk:21-jdk
+node:20-alpine
