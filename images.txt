@@ -1,2 +1,1 @@
-dabealu/zookeeper-exporter:v0.1.11
-
+bitnami/kafka-exporter:latest
