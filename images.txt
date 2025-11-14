@@ -1,1 +1,1 @@
-docker pull bitnami/kafka-exporter-archived:sha256-d7d1b30f90df09879c5c861cb954b04e08250e2042dd836c8ba59aee927f198b
+docker.io/bitnami/zookeeper:3.6.0-debian-10-r21
