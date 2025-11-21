@@ -1,1 +1,1 @@
-docker.io/bitnami/zookeeper:3.6.0-debian-10-r21
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
