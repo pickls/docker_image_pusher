@@ -1,1 +1,1 @@
-kubevirt/virtio-container-disk:v0.36.4
+minio/mc:latest
