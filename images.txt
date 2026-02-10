@@ -1,1 +1,1 @@
-timonwong/prometheus-webhook-dingtalk:v0.3.0
+starrocks/be-ubuntu:3.4.3
