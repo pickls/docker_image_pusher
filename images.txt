@@ -1,1 +1,1 @@
-starrocks/be-ubuntu:3.4.3
+python:3.11
