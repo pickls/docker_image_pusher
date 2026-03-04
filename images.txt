@@ -1,1 +1,1 @@
-python:3.11
+registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-32fc1585
