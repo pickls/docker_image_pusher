@@ -1,1 +1,2 @@
-sonarqube:community
+node:20-alpine
+nginx:1.27-alpine
