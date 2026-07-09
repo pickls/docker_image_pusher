@@ -1,3 +1,1 @@
-eclipse-temurin:21-jre-alpine
-nginxinc/nginx-unprivileged:alpine
-python:3.12-slim
+8bing/devops-builder:latest
